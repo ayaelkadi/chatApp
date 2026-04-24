@@ -1,0 +1,8 @@
+{
+    "reqrites": [
+        {
+            "source": "/(.*)",
+            "destination": "/"
+        }
+    ]
+}
